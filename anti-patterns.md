@@ -11,6 +11,9 @@
 
 Velocity is a useful measure to help us forecast and plan.
 
+- People will fudge the numbers by moving things to done before the sprint is early, and being tempted to "complete" unfinsihed tasks
+- People will fudge the numbers by underestimating after a bad sprint, leading to inconsistent measurements
+
 ## Team Formation
 
 Scrum team is not self-encapsulated and has too many dependencies keeping it from getting work done.

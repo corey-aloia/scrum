@@ -38,6 +38,16 @@ The team needs to define what can or cannot be done in the sprint: estimated eff
 
 Teams should use story points to understand the size of the work and the prioritization of the work. Story points go wrong when they’re used to judge people, assign detailed timelines and resources, and when they’re mistaken for a measure of productivity.
 
+Don't fudge the numbers by declairing an item complete before it really is.
+
+Estimates are mainly there to give a relative cost to tasks, allowing the PO to better prioritize and project.
+
+`People suck at estimating, and they suck at attaching hours to those estimates. But it seems we can better estimate things relative to each other.... Story points are a way to highlight the difference in sizes between features. A 5 SP feature is more than a 3 SP feature, and less than a 8 SP feature.... in time they figure out, relative to the other features, what is a 5 and a 1 and a 13. It doesn't matter how they subjectively reached that number, relatively speaking they learn to attach the same numbers to similar sized features. Once this happens people will know how much to pull into the sprint and the velocity will start to become relevant. The definition of a SP is that it's an abstract measure for the difficulty of a feature and the effort needed to build it`
+
+### Velocity
+
+The product owner can use velocity to predict how quickly a team can work through the backlog, because the report tracks the forecasted and completed work over several iterations–the more iterations, the more accurate the forecast.
+
 ## Columns
 
 - Write a (short) comment when you move a ticket to another column
